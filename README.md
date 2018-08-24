@@ -10,3 +10,8 @@ Run
 ```
 make
 ```
+
+## TODO
+* [ ] Implement SSL connection
+* [ ] Implement Control Message
+* [ ] Improve UI design
