@@ -1,5 +1,5 @@
 # Remote-Chat
-A point to point chat program
+A point to point command line chat program
 
 ## Dependency
 * C++14 compiler
