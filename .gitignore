@@ -1,0 +1,11 @@
+# Binary
+remote_chat
+
+# Backup file
+*~
+
+# Swap file
+.*.swp
+
+# Object file
+*.o
